@@ -3,5 +3,5 @@
 </picture>
 
 <div style="width: 100%;">
-    <img src="https://github.com/godotengine/godot/releases/download/4.3-stable/Godot_v4.3-stable_macos.universal.zip" style="width: 100%;" alt="Click to see the source">
+    <img src="" style="width: 100%;" alt="Click to see the source">
 </div>

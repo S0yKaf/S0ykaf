@@ -6,8 +6,10 @@
   <circle cx="5" cy="5" r="4" />
 
   <script>
+    console.log("Hello")
     // <![CDATA[
     function getColor() {
+      console.log("Hello")
       const R = Math.round(Math.random() * 255)
         .toString(16)
         .padStart(2, "0");

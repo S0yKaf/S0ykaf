@@ -22,8 +22,8 @@
             }
 
                 @keyframes example {
-                    from {width: 0%; height:0%}
-                    to {width: 100%;height:200%}
+                    from {width: 100%;height:100%}
+                    to {width: 100%;height:100%}
                 }
 
                 /* The element to apply the animation to */
@@ -32,7 +32,7 @@
                 height: 100px;
                 background-color: red;
                 animation-name: example;
-                animation-duration: 1s;
+                animation-duration: 60s;
                 animation-iteration-count: infinite;
                 animation-direction: alternate;
                 }

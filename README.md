@@ -1,4 +1,4 @@
 <picture>
-    <img src="link.svg" style="width: 100%;" height="auto" width="100%" alt="Click to see the source">
+    <img src="link.svg" style="width: 100%; height: 100%" height="100%" width="100%">
 </picture>
 

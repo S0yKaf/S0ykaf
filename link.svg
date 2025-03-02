@@ -42,7 +42,7 @@
                 text-align: center;
                 flex-direction: column;
                 padding-x: 2rem;
-                font-size: 64px;
+                font-size: 42px;
                 display: flex;
                 justify-content: center;
                 align-items: center;

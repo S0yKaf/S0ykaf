@@ -48,10 +48,34 @@
                 align-items: center;
             }
 
+            @keyframes rainbow_anim {
+                0%{
+                    -webkit-background-clip: text;
+                    background-position:0% 0%;
+                }
+                100%{
+                    -webkit-background-clip: text;
+                    background-position:100% 100%;
+                }
+            }
+
+            .rainbow {
+                background: linear-gradient(150deg, #FF0000, #00FF00, #0000FF, #FF0000, #00FF00, #0000FF);
+                -webkit-background-clip: text;
+                background-size: 200% 200%;
+                background-clip: text;
+                -webkit-text-fill-color: transparent;
+                animation-name: rainbow_anim;
+                animation-timing-function: linear;
+                animation-duration: 0.5s;
+                animation-iteration-count: infinite;
+                animation-direction:normal;
+            }
+
             </style>
             <div class="content">
                 <div class="text">
-                    <span>Hello.</span>
+                    <span class="rainbow">Hello.</span>
                     <span>Welcome to my page.</span>
                 </div>
             </div>

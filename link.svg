@@ -10,6 +10,7 @@
 
     .content {
 	  font-family: "terminus","monospace" !important;
+	  padding: 5px;
 	  color: white;
 	  cursor: pointer;
 	  text-align: center;

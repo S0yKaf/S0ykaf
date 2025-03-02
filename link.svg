@@ -9,7 +9,7 @@
     
     .content {
     font-family: "terminus","monospace" !important;
-    background-image: url("data:image/gif;base64,R0lGODdhAQADAPABAP////8AACwAAAAAAQADAAACAgxQADs=")
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAF1QTFRF/yce/yYdXxgGXhgGXxkH/ycdXxgHtCATuCETuSET8iUbYBkHlR4NsiESsSESzCMWtSASbRkIlB4NbRoIlR4OyyIXaxkIbBkIsCARsCESyiIW9CYclR0NyyIW8yYcr1wORwAAAINJREFUeNpkkFkSwyAMQ7EsnKVLuiXde/9jxkmbDp74ByFk/CClUDnsJCyFL3/rNsldaGSV00FDnlo3ZuEewjYoU88XYEbbtgtHd1W4QeXx8Qu9z1Qvt4d+Af5c3CNwagtSuEMLEEDdFBOnEXDUKqDmvfjJXVavlpWIHyT5K2byUYABAPDJAufJE3brAAAAAElFTkSuQmCC)
     }
   </style>
   <script>

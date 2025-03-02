@@ -9,17 +9,15 @@
     
     .content {
     font-family: "terminus","monospace" !important;
-    background: url('https://web.archive.org/web/20090725223313/http://www.geocities.com/arielpurkey/starstwinkle.gif');
+    background-image: url("data:image/gif;base64,R0lGODdhAQADAPABAP////8AACwAAAAAAQADAAACAgxQADs=")
     }
   </style>
   <script>
     console.log("hello");
   </script>
   <div class="content">
-    <img src="https://web.archive.org/web/20090725223313/http://www.geocities.com/arielpurkey/starstwinkle.gif" height="200" width="200" />
     <strong>Hello</strong>
-    <button onclick="console.log('hello')">Click me</button>
-     <iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe> 
+
   </div>
 		</div>
 	</foreignObject>

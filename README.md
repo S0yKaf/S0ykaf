@@ -17,3 +17,8 @@
     <img src="https://github.com/user-attachments/assets/fd3f2e48-4813-45ac-bfc3-2fe022e23cc8" />
 </a>
 </p>
+
+---
+<picture>
+    <img src="text.svg" width="100%" height="600px">
+</picture>

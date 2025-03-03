@@ -26,6 +26,7 @@
                     border-color: aqua;
                     border-width: 0.2rem;
                     border-style: solid;
+                    background-color: #0d1117;
                     gap: 1rem;
                 }
 

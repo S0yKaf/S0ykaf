@@ -28,6 +28,7 @@
     <a href="https://www.newgrounds.com/">
         <img src="https://github.com/user-attachments/assets/d75bbe41-3ac4-4981-984f-dcc444045d38" />
     </a>
+    <a href="https://www.python.org/"><img src="/88x31/python.gif" /></a>
 
 </p>
 <p align="center">
@@ -45,7 +46,6 @@
     <a href="https://duckstation.org/"><img src="https://github.com/user-attachments/assets/4c6c6c6d-f4ad-44c0-8017-02401a7c23ab" /></a>
     <a href="https://store.steampowered.com/app/758330/Shenmue_I__II/"><img src="https://github.com/user-attachments/assets/be0a64d6-e964-4016-8a36-edbc00876ea1" /></a>
     <a href="https://www.youtube.com/playlist?list=PLAEQD0ULngi67rwmhrkNjMZKvyCReqDV4"><img src="/88x31/bobross.gif" /></a>
-    <a href="https://www.python.org/"><img src="/88x31/python.gif" /></a>
 </p>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/03c67c7c-d025-4f6a-b5ed-80927860da39" />

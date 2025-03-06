@@ -14,6 +14,9 @@
 <a href="https://archlinux.org">
     <img src="https://github.com/user-attachments/assets/fd3f2e48-4813-45ac-bfc3-2fe022e23cc8" />
 </a>
+<a href="https://www.python.org/">
+    <img src="/88x31/python.gif" />
+</a>
 </p>
 <picture>
     <img src="text.svg" width="100%" height="600">
@@ -28,8 +31,6 @@
     <a href="https://www.newgrounds.com/">
         <img src="https://github.com/user-attachments/assets/d75bbe41-3ac4-4981-984f-dcc444045d38" />
     </a>
-    <a href="https://www.python.org/"><img src="/88x31/python.gif" /></a>
-
 </p>
 <p align="center">
     <a href="https://ruffle.rs/"><img src="https://github.com/user-attachments/assets/7cc2e052-be3f-48a2-8c2c-490b5a12047d" /></a>
